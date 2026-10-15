@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grind</string>
+    <string name="acc_desc">Grind uses this to send you back to the home screen and block distracting apps after you hit your daily limit. It does not read your screen content.</string>
+</resources>
